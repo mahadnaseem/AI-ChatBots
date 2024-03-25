@@ -1,14 +1,15 @@
-# AI Chatbot Project Repository
+# AI Projects Repository
 
-![AI Chatbot](https://image.freepik.com/free-vector/robot-chatbot-illustration_52683-47087.jpg)
+![AI Chatbot](https://i.pinimg.com/736x/9a/11/33/9a1133d4af3b637e1c6c8ff251785f27.jpg)
 
-Welcome to the AI Chatbot Project Repository! This repository is dedicated to the development of an advanced AI chatbot using cutting-edge technologies and libraries such as Python, Langchain, GoogleGenAI, and Huggingface. Our goal is to leverage powerful Language Models (LLM) to deliver intelligent conversational experiences.
+Welcome to the AI Projects Repository! This repository is dedicated to the development of a advanced AI projects and chatbots using cutting-edge technologies and libraries such as Python, Langchain, GoogleGenAI, and Huggingface. My goal is to leverage powerful Language Models (LLM) to deliver intelligent conversational experiences.
 
 ## Features
 
 - Source code for the AI chatbot implementation.
 - Integration with Langchain for language processing.
 - Utilization of GoogleGenAI for cloud-based AI functionalities.
+- Utilization of FAISS for vector embeddings and vector database.
 - Resources for working with Huggingface libraries.
 
 ## Getting Started
